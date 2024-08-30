@@ -45,3 +45,6 @@ coverage/
 # Generated files
 yarn.lock
 package-lock.json
+
+# Tailwind CSS generated file
+tailwind.css
